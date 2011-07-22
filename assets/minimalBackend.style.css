@@ -3,6 +3,10 @@
 	padding-bottom: 0;
 }
 
+#nav {
+	height: 30px;
+}
+
 #footer {
 	padding-top: 8px;
 	padding-bottom: 8px;
